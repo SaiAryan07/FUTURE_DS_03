@@ -5,8 +5,8 @@
 This project is part of my *Data Science & Analytics Internship at Future Interns*.  
 The goal of Task 3 was to analyze *student feedback data* and build a *Power BI dashboard* to uncover key insights about ratings, sentiment, and performance of various aspects of the course.
 ## 📷 Dashboard Preview
-![Dashboard Preview](dashboard_screenshot.png)  
-(https://github.com/SaiAryan07/FUTURE_DS_03/blob/main/Dashboard.png)
+![Dashboard Preview](https://github.com/SaiAryan07/FUTURE_DS_03/blob/main/Dashboard.png)  
+
 ## 🎯 Objectives
 - Process raw feedback data into a structured format.
 - Categorize ratings into *Positive, **Neutral, and **Negative* sentiments.
