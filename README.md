@@ -56,4 +56,4 @@ This allowed us to still capture sentiment distribution while working within the
 *Meesala 
 Sai Aryan*  
 [GitHub Profile](https://github.com/SaiAryan07) |
-[LinkedIn Profile](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+[LinkedIn Profile](https://www.linkedin.com/in/sai-aryan-meesala-0545602b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
